@@ -27,7 +27,7 @@ html {
 .stars label {
   color: lightgray;
   cursor: pointer;
-  padding: 7`px;
+  padding: 7px;
 }
 
 .stars input:checked ~ label {
