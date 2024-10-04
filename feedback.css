@@ -10,10 +10,13 @@ html {
 }
 .stars {
   display: flex;
-  direction: rtl; /* Reverse the order of stars */
+  direction: rtl;
+  /* Reverse the order of stars */
+  justify-content: center; /* Centers the stars horizontally */
+  align-items: center;
   font-size: 30px;
   text-align: left;
-  margin-right: 40%;
+  
 }
 
 
