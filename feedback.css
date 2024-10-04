@@ -24,7 +24,7 @@ html {
 .stars label {
   color: lightgray;
   cursor: pointer;
-  padding: 5px;
+  padding: 10px;
 }
 
 .stars input:checked ~ label {
@@ -62,7 +62,7 @@ body {
 
 /* Navbar styling */
 .navbar {
-  height: 2rem;
+  height: 2.5rem;
   width: 100%;
   background-color: rgba(0, 0, 0, 0.395);
   padding: 0.6rem;
@@ -167,7 +167,7 @@ label {
   border-radius: 10px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
   text-align: center;
-  margin-top: 4rem;
+  margin-top: 3rem;
 }
 .i{
   color: #eeb712;
